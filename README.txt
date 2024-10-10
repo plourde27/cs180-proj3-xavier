@@ -1,0 +1,1 @@
+To run the code, run all the cells from top down, with the comment at the top of each cell corresponding to its function
